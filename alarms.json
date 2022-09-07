@@ -1,0 +1,26 @@
+[
+	{
+		"_id": "1",
+		"alarmTime": "6:30",
+		"description": "Wake Up!",
+		"isActivated": false
+	},
+	{
+		"_id": "2",
+		"alarmTime": "8:30",
+		"description": "Awake!",
+		"isActivated": false
+	},
+	{
+		"_id": "3",
+		"alarmTime": "13:32",
+		"description": "Fuck emvkemr!",
+		"isActivated": false
+	},
+	{
+		"_id": "4",
+		"alarmTime": "16:45",
+		"description": "erkmeklrmeklmrbkemrbekrmble",
+		"isActivated": false
+	}
+]
